@@ -15,7 +15,7 @@ public class A1 {
 	
 	System.out.println("\nzad. 3.");
 	int c = 5;
-	c++;
+	
 	System.out.println(c++); 
 	System.out.println(c);
 	
