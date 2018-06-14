@@ -20,6 +20,23 @@ public class B2 {
 			System.out.println(i);
 		}
 		
-	}
-
+		System.out.println("\nZad.3.");
+		System.out.println(+ 1 + 3  + 1 + " to " + 3 + 5 + 6);
+		
+		System.out.println("Zad. 4");
+		
+		}
 }
+	
+	
+		
+	
+	
+	
+	
+	
+		
+		
+	
+
+
